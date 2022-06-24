@@ -1,0 +1,2104 @@
+{
+    "players": [
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Morttheusz",
+            "rank": "Challenger",
+            "elo": "1857",
+            "wins": "386",
+            "losses": "306"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/I+am+Sobek",
+            "rank": "Challenger",
+            "elo": "1731",
+            "wins": "368",
+            "losses": "300"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/Snoopy",
+            "rank": "Challenger",
+            "elo": "1722",
+            "wins": "178",
+            "losses": "116"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/QUINDINHO",
+            "rank": "Challenger",
+            "elo": "1700",
+            "wins": "655",
+            "losses": "569"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/Dealersz+R1",
+            "rank": "Challenger",
+            "elo": "1691",
+            "wins": "227",
+            "losses": "170"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/VRX+Disamis",
+            "rank": "Challenger",
+            "elo": "1661",
+            "wins": "193",
+            "losses": "130"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/las/1Fresco",
+            "rank": "Challenger",
+            "elo": "1657",
+            "wins": "282",
+            "losses": "217"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/T%C3%BAr%C3%B3st%C3%A9szta",
+            "rank": "Challenger",
+            "elo": "1651",
+            "wins": "181",
+            "losses": "119"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/MagiFelix5",
+            "rank": "Challenger",
+            "elo": "1650",
+            "wins": "701",
+            "losses": "581"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/tr/TwTv+tuokaZlol",
+            "rank": "Challenger",
+            "elo": "1649",
+            "wins": "128",
+            "losses": "88"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Nick+link",
+            "rank": "Challenger",
+            "elo": "1638",
+            "wins": "321",
+            "losses": "248"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/insanity123",
+            "rank": "Challenger",
+            "elo": "1638",
+            "wins": "199",
+            "losses": "138"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/JUGKlNG",
+            "rank": "Challenger",
+            "elo": "1622",
+            "wins": "365",
+            "losses": "291"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/SMB+heixiaohu",
+            "rank": "Challenger",
+            "elo": "1605",
+            "wins": "401",
+            "losses": "302"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/MUSTACHEmanFIGHT",
+            "rank": "Challenger",
+            "elo": "1598",
+            "wins": "252",
+            "losses": "189"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/LSB+Duro",
+            "rank": "Challenger",
+            "elo": "1592",
+            "wins": "494",
+            "losses": "404"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/SOOYOUNG0614",
+            "rank": "Challenger",
+            "elo": "1582",
+            "wins": "205",
+            "losses": "150"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/lan/Haka",
+            "rank": "Challenger",
+            "elo": "1581",
+            "wins": "351",
+            "losses": "283"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/SSG+Cor%C3%ABjj",
+            "rank": "Challenger",
+            "elo": "1581",
+            "wins": "262",
+            "losses": "196"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/hidanvs1",
+            "rank": "Challenger",
+            "elo": "1578",
+            "wins": "282",
+            "losses": "212"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/good+in+head",
+            "rank": "Challenger",
+            "elo": "1574",
+            "wins": "213",
+            "losses": "164"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/las/Di+Morwinela",
+            "rank": "Challenger",
+            "elo": "1570",
+            "wins": "202",
+            "losses": "136"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/las/FIX+10",
+            "rank": "Challenger",
+            "elo": "1563",
+            "wins": "251",
+            "losses": "170"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/MAD+AD",
+            "rank": "Challenger",
+            "elo": "1546",
+            "wins": "221",
+            "losses": "182"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/wutian",
+            "rank": "Challenger",
+            "elo": "1546",
+            "wins": "200",
+            "losses": "112"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/RipMrAdc",
+            "rank": "Challenger",
+            "elo": "1545",
+            "wins": "297",
+            "losses": "230"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/NO+LOVE+GO+GYM",
+            "rank": "Challenger",
+            "elo": "1525",
+            "wins": "224",
+            "losses": "179"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/MIDKlNG",
+            "rank": "Challenger",
+            "elo": "1522",
+            "wins": "220",
+            "losses": "135"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/Built",
+            "rank": "Challenger",
+            "elo": "1517",
+            "wins": "234",
+            "losses": "155"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/tr/%C4%B0laydaya+a%C5%9F%C4%B1%C4%9F%C4%B1m",
+            "rank": "Challenger",
+            "elo": "1498",
+            "wins": "171",
+            "losses": "118"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/Cupic",
+            "rank": "Challenger",
+            "elo": "1492",
+            "wins": "272",
+            "losses": "204"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/DK+ShowMaker",
+            "rank": "Challenger",
+            "elo": "1486",
+            "wins": "240",
+            "losses": "171"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/Gen+G+Peyz",
+            "rank": "Challenger",
+            "elo": "1483",
+            "wins": "414",
+            "losses": "336"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/100+Sword",
+            "rank": "Challenger",
+            "elo": "1482",
+            "wins": "239",
+            "losses": "173"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/KDF+BuLLDoG",
+            "rank": "Challenger",
+            "elo": "1473",
+            "wins": "350",
+            "losses": "269"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/Ablazeolive",
+            "rank": "Challenger",
+            "elo": "1471",
+            "wins": "214",
+            "losses": "157"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/hunjiking9",
+            "rank": "Challenger",
+            "elo": "1471",
+            "wins": "167",
+            "losses": "122"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/dasdqwr1",
+            "rank": "Challenger",
+            "elo": "1470",
+            "wins": "198",
+            "losses": "140"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/KT+VicLa",
+            "rank": "Challenger",
+            "elo": "1462",
+            "wins": "576",
+            "losses": "500"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/ionuts",
+            "rank": "Challenger",
+            "elo": "1460",
+            "wins": "196",
+            "losses": "142"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Twitch+Hyogatm",
+            "rank": "Challenger",
+            "elo": "1457",
+            "wins": "226",
+            "losses": "176"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/tang+yuan+ya",
+            "rank": "Challenger",
+            "elo": "1448",
+            "wins": "244",
+            "losses": "183"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/dw98q0znyh9c7wh",
+            "rank": "Challenger",
+            "elo": "1446",
+            "wins": "279",
+            "losses": "240"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/%EC%B0%B8%EC%83%88%ED%81%AC%EB%A9%B4%EB%B9%84%EB%91%98%EA%B8%B0",
+            "rank": "Challenger",
+            "elo": "1446",
+            "wins": "193",
+            "losses": "121"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/viper3",
+            "rank": "Challenger",
+            "elo": "1427",
+            "wins": "349",
+            "losses": "274"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/%EB%94%B0%EC%9D%B4%EB%94%B0%EC%9D%B4%ED%97%A8",
+            "rank": "Challenger",
+            "elo": "1439",
+            "wins": "457",
+            "losses": "393"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/Shrimp+Cpt",
+            "rank": "Challenger",
+            "elo": "1438",
+            "wins": "460",
+            "losses": "411"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/GLASSy+SMILEy",
+            "rank": "Challenger",
+            "elo": "1430",
+            "wins": "190",
+            "losses": "131"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/RobinTheLegend",
+            "rank": "Challenger",
+            "elo": "1430",
+            "wins": "165",
+            "losses": "110"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/asnidkooopp",
+            "rank": "Challenger",
+            "elo": "1426",
+            "wins": "135",
+            "losses": "81"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/ShaQuinn1",
+            "rank": "Challenger",
+            "elo": "1424",
+            "wins": "157",
+            "losses": "100"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/RoseThorn",
+            "rank": "Challenger",
+            "elo": "1420",
+            "wins": "240",
+            "losses": "179"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/PB+Lord+Semi",
+            "rank": "Challenger",
+            "elo": "1416",
+            "wins": "347",
+            "losses": "287"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/PetesAdoptedSon",
+            "rank": "Challenger",
+            "elo": "1414",
+            "wins": "149",
+            "losses": "86"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/ViV+SkewMond",
+            "rank": "Challenger",
+            "elo": "1413",
+            "wins": "319",
+            "losses": "244"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/O+TRATOR",
+            "rank": "Challenger",
+            "elo": "1413",
+            "wins": "215",
+            "losses": "139"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/FaithXD",
+            "rank": "Challenger",
+            "elo": "1412",
+            "wins": "142",
+            "losses": "94"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/Ambis",
+            "rank": "Challenger",
+            "elo": "1410",
+            "wins": "239",
+            "losses": "194"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/ASD+QQQ+ZZZ",
+            "rank": "Challenger",
+            "elo": "1406",
+            "wins": "398",
+            "losses": "313"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/MID+BOCA",
+            "rank": "Challenger",
+            "elo": "1401",
+            "wins": "332",
+            "losses": "275"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/TheZanke",
+            "rank": "Challenger",
+            "elo": "1400",
+            "wins": "373",
+            "losses": "316"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/saving+na",
+            "rank": "Challenger",
+            "elo": "1397",
+            "wins": "308",
+            "losses": "259"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/lan/FBGG+Melvox",
+            "rank": "Challenger",
+            "elo": "1393",
+            "wins": "275",
+            "losses": "226"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/npc+roleplay+acc",
+            "rank": "Challenger",
+            "elo": "1393",
+            "wins": "178",
+            "losses": "157"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/rivellablue",
+            "rank": "Challenger",
+            "elo": "1383",
+            "wins": "203",
+            "losses": "133"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/%EB%82%9C%EC%99%9C%EC%9D%B4%EB%A0%87%EA%B2%8C%EC%82%B4%EA%B9%8C",
+            "rank": "Challenger",
+            "elo": "1382",
+            "wins": "291",
+            "losses": "207"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/Rascal",
+            "rank": "Challenger",
+            "elo": "1381",
+            "wins": "488",
+            "losses": "416"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/las/BAYACHAO",
+            "rank": "Challenger",
+            "elo": "1375",
+            "wins": "180",
+            "losses": "126"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/Jg+diff+bitsh",
+            "rank": "Challenger",
+            "elo": "1374",
+            "wins": "410",
+            "losses": "355"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/TheBlackPrince",
+            "rank": "Challenger",
+            "elo": "1372",
+            "wins": "151",
+            "losses": "108"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Arthur+Lanches",
+            "rank": "Challenger",
+            "elo": "1371",
+            "wins": "240",
+            "losses": "194"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/Feather+Daddy",
+            "rank": "Challenger",
+            "elo": "1370",
+            "wins": "565",
+            "losses": "505"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/xooos",
+            "rank": "Challenger",
+            "elo": "1370",
+            "wins": "373",
+            "losses": "321"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/%EC%A1%B4%EC%A4%91%EA%B2%B8%EC%86%90%EC%95%84%EB%8B%A5%EC%A7%91%EC%A4%91",
+            "rank": "Challenger",
+            "elo": "1370",
+            "wins": "343",
+            "losses": "270"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/ArkRuHa",
+            "rank": "Challenger",
+            "elo": "1367",
+            "wins": "345",
+            "losses": "288"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/Wx+Mjm978244659",
+            "rank": "Challenger",
+            "elo": "1366",
+            "wins": "202",
+            "losses": "157"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/hope3",
+            "rank": "Challenger",
+            "elo": "1365",
+            "wins": "487",
+            "losses": "398"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/SlNGED",
+            "rank": "Challenger",
+            "elo": "1363",
+            "wins": "353",
+            "losses": "280"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/ru/ArtJ",
+            "rank": "Challenger",
+            "elo": "1361",
+            "wins": "125",
+            "losses": "61"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/c2+meteos",
+            "rank": "Challenger",
+            "elo": "1359",
+            "wins": "399",
+            "losses": "336"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/182blink",
+            "rank": "Challenger",
+            "elo": "1357",
+            "wins": "127",
+            "losses": "86"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/%EB%B2%A0%EB%9E%80%EB%8B%A4%EA%B1%B0%EB%B6%81%EC%9D%B4",
+            "rank": "Challenger",
+            "elo": "1351",
+            "wins": "330",
+            "losses": "258"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/SPKTRA",
+            "rank": "Challenger",
+            "elo": "1351",
+            "wins": "287",
+            "losses": "221"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/%EC%95%84%EC%A7%81%EC%9D%80+%EB%AC%B4%EA%B2%81%EB%8B%A4",
+            "rank": "Challenger",
+            "elo": "1347",
+            "wins": "355",
+            "losses": "288"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/AFYS",
+            "rank": "Challenger",
+            "elo": "1346",
+            "wins": "178",
+            "losses": "115"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/call+of+power",
+            "rank": "Challenger",
+            "elo": "1343",
+            "wins": "245",
+            "losses": "183"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/1+sub+10+flex%C3%B5es",
+            "rank": "Challenger",
+            "elo": "1337",
+            "wins": "627",
+            "losses": "574"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/las/Evaine+Defy",
+            "rank": "Challenger",
+            "elo": "1320",
+            "wins": "238",
+            "losses": "194"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/THE+WHITEST",
+            "rank": "Challenger",
+            "elo": "1318",
+            "wins": "197",
+            "losses": "142"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/ru/MrGr%D0%B0e%D0%BA",
+            "rank": "Challenger",
+            "elo": "1292",
+            "wins": "183",
+            "losses": "136"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/zenbukorosu",
+            "rank": "Challenger",
+            "elo": "1314",
+            "wins": "373",
+            "losses": "283"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/1weixin+PaoPaoPW",
+            "rank": "Challenger",
+            "elo": "1314",
+            "wins": "197",
+            "losses": "145"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/SRTSS",
+            "rank": "Challenger",
+            "elo": "1308",
+            "wins": "558",
+            "losses": "497"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/his+airness",
+            "rank": "Challenger",
+            "elo": "1285",
+            "wins": "673",
+            "losses": "617"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/SHINI+1407",
+            "rank": "Challenger",
+            "elo": "1302",
+            "wins": "330",
+            "losses": "282"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/R%C3%A0ion",
+            "rank": "Challenger",
+            "elo": "1301",
+            "wins": "118",
+            "losses": "83"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Yupps",
+            "rank": "Challenger",
+            "elo": "1300",
+            "wins": "262",
+            "losses": "220"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/little+zay",
+            "rank": "Challenger",
+            "elo": "1298",
+            "wins": "175",
+            "losses": "136"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/Kaneki+Kunn",
+            "rank": "Challenger",
+            "elo": "1297",
+            "wins": "196",
+            "losses": "133"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/lan/Ai+Hoshino",
+            "rank": "Challenger",
+            "elo": "1287",
+            "wins": "115",
+            "losses": "87"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/wechat+Hc9999na",
+            "rank": "Challenger",
+            "elo": "1285",
+            "wins": "232",
+            "losses": "161"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/supaaaaaaaaaaaaa",
+            "rank": "Challenger",
+            "elo": "1301",
+            "wins": "440",
+            "losses": "377"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/Jumalan+torni",
+            "rank": "Challenger",
+            "elo": "1279",
+            "wins": "183",
+            "losses": "125"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/xxxxxxm",
+            "rank": "Challenger",
+            "elo": "1277",
+            "wins": "671",
+            "losses": "596"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/%EB%B3%B4%EC%84%9D%EC%8A%A4%ED%84%B4%EA%B1%B4+%EC%95%A0%EB%94%94",
+            "rank": "Challenger",
+            "elo": "1258",
+            "wins": "495",
+            "losses": "397"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/SMB+bangzhu",
+            "rank": "Challenger",
+            "elo": "1276",
+            "wins": "325",
+            "losses": "257"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/Drututt",
+            "rank": "Challenger",
+            "elo": "1276",
+            "wins": "248",
+            "losses": "193"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/fox+solo",
+            "rank": "Challenger",
+            "elo": "1239",
+            "wins": "358",
+            "losses": "295"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/Ne%C3%B8%C3%B8",
+            "rank": "Challenger",
+            "elo": "1273",
+            "wins": "232",
+            "losses": "188"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/who+am+l",
+            "rank": "Challenger",
+            "elo": "1272",
+            "wins": "126",
+            "losses": "77"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/%EC%96%B4%EB%94%94%EA%B0%84%EA%B1%B0%EB%8B%88",
+            "rank": "Challenger",
+            "elo": "1287",
+            "wins": "213",
+            "losses": "161"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/LOBO+MAU+LIBDGEL",
+            "rank": "Challenger",
+            "elo": "1269",
+            "wins": "320",
+            "losses": "270"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/Good+Boi",
+            "rank": "Challenger",
+            "elo": "1266",
+            "wins": "280",
+            "losses": "228"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/FFDP",
+            "rank": "Challenger",
+            "elo": "1265",
+            "wins": "194",
+            "losses": "138"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/SCAL+Shoiti",
+            "rank": "Challenger",
+            "elo": "1256",
+            "wins": "564",
+            "losses": "509"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/ProDelta",
+            "rank": "Challenger",
+            "elo": "1253",
+            "wins": "282",
+            "losses": "238"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/RGE+Malrang",
+            "rank": "Challenger",
+            "elo": "1250",
+            "wins": "285",
+            "losses": "217"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/bhood+superstar",
+            "rank": "Challenger",
+            "elo": "1250",
+            "wins": "196",
+            "losses": "152"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/Kirei+sama",
+            "rank": "Challenger",
+            "elo": "1249",
+            "wins": "391",
+            "losses": "333"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/pov",
+            "rank": "Challenger",
+            "elo": "1265",
+            "wins": "382",
+            "losses": "335"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/asdqewzxc",
+            "rank": "Challenger",
+            "elo": "1247",
+            "wins": "157",
+            "losses": "108"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/Th%C3%AB+N%C3%AFghtf%C3%A4%C5%82%C5%82",
+            "rank": "Challenger",
+            "elo": "1206",
+            "wins": "228",
+            "losses": "184"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/AgainstThCurrent",
+            "rank": "Challenger",
+            "elo": "1237",
+            "wins": "176",
+            "losses": "132"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/S+%CE%B1+N+N+Y",
+            "rank": "Challenger",
+            "elo": "1236",
+            "wins": "357",
+            "losses": "307"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/fatiaoahri",
+            "rank": "Challenger",
+            "elo": "1236",
+            "wins": "100",
+            "losses": "50"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/Villager+C",
+            "rank": "Challenger",
+            "elo": "1239",
+            "wins": "433",
+            "losses": "377"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/Iziio",
+            "rank": "Challenger",
+            "elo": "1235",
+            "wins": "197",
+            "losses": "150"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/Tiancaishaonian",
+            "rank": "Challenger",
+            "elo": "1267",
+            "wins": "477",
+            "losses": "410"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/sandycheeks72",
+            "rank": "Challenger",
+            "elo": "1231",
+            "wins": "232",
+            "losses": "211"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/fearless33",
+            "rank": "Challenger",
+            "elo": "1231",
+            "wins": "224",
+            "losses": "179"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/DK+Sharvel",
+            "rank": "Challenger",
+            "elo": "1231",
+            "wins": "478",
+            "losses": "397"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/WO+DIUUUUUUUUUU",
+            "rank": "Challenger",
+            "elo": "1228",
+            "wins": "234",
+            "losses": "177"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/lan/OIivia",
+            "rank": "Challenger",
+            "elo": "1228",
+            "wins": "128",
+            "losses": "75"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/lan/Wind19",
+            "rank": "Challenger",
+            "elo": "1227",
+            "wins": "270",
+            "losses": "212"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/polo+capalot",
+            "rank": "Challenger",
+            "elo": "1226",
+            "wins": "266",
+            "losses": "229"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/GRIZZLEY",
+            "rank": "Challenger",
+            "elo": "1226",
+            "wins": "228",
+            "losses": "176"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/Twitter+Jinksuwu",
+            "rank": "Challenger",
+            "elo": "1226",
+            "wins": "170",
+            "losses": "157"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/Chime2",
+            "rank": "Challenger",
+            "elo": "1225",
+            "wins": "275",
+            "losses": "221"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/100+Sn1per",
+            "rank": "Challenger",
+            "elo": "1225",
+            "wins": "177",
+            "losses": "122"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/yam%C3%A4to11",
+            "rank": "Challenger",
+            "elo": "1225",
+            "wins": "163",
+            "losses": "117"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/Litny",
+            "rank": "Challenger",
+            "elo": "1222",
+            "wins": "270",
+            "losses": "235"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/Dreaming+On",
+            "rank": "Challenger",
+            "elo": "1221",
+            "wins": "301",
+            "losses": "238"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/lnferno",
+            "rank": "Challenger",
+            "elo": "1220",
+            "wins": "480",
+            "losses": "415"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/ON12321",
+            "rank": "Challenger",
+            "elo": "1219",
+            "wins": "242",
+            "losses": "170"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/DK+SharveI",
+            "rank": "Challenger",
+            "elo": "1199",
+            "wins": "288",
+            "losses": "224"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/Qnoxs",
+            "rank": "Challenger",
+            "elo": "1232",
+            "wins": "279",
+            "losses": "234"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/vrumvrumvrumvrum",
+            "rank": "Challenger",
+            "elo": "1214",
+            "wins": "551",
+            "losses": "495"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/TSM+Tactical",
+            "rank": "Challenger",
+            "elo": "1213",
+            "wins": "210",
+            "losses": "152"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/Night+9+19",
+            "rank": "Challenger",
+            "elo": "1212",
+            "wins": "561",
+            "losses": "492"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/polo+surfist%C3%A3o",
+            "rank": "Challenger",
+            "elo": "1212",
+            "wins": "147",
+            "losses": "102"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/EU+Red",
+            "rank": "Challenger",
+            "elo": "1211",
+            "wins": "165",
+            "losses": "118"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/%EB%8F%85%EC%9D%84%ED%92%88%EA%B8%B0",
+            "rank": "Challenger",
+            "elo": "1157",
+            "wins": "553",
+            "losses": "489"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/jp/Moyyuu",
+            "rank": "Challenger",
+            "elo": "1190",
+            "wins": "348",
+            "losses": "241"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/%EB%94%94%EC%BC%80%EC%9D%B4+%ED%83%91",
+            "rank": "Challenger",
+            "elo": "1209",
+            "wins": "237",
+            "losses": "171"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/%EC%9A%B0%EC%B0%AC%EA%B5%B3",
+            "rank": "Challenger",
+            "elo": "1208",
+            "wins": "209",
+            "losses": "154"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/TwTv+KoKooPuffs",
+            "rank": "Challenger",
+            "elo": "1206",
+            "wins": "780",
+            "losses": "734"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/ASTROBOY99",
+            "rank": "Challenger",
+            "elo": "1206",
+            "wins": "220",
+            "losses": "170"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/TwTv+Tjockpung",
+            "rank": "Challenger",
+            "elo": "1206",
+            "wins": "131",
+            "losses": "85"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/FIeshy",
+            "rank": "Challenger",
+            "elo": "1188",
+            "wins": "426",
+            "losses": "363"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/fragiIe",
+            "rank": "Challenger",
+            "elo": "1202",
+            "wins": "584",
+            "losses": "513"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/5tunt",
+            "rank": "Challenger",
+            "elo": "1201",
+            "wins": "271",
+            "losses": "227"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Riiquee",
+            "rank": "Challenger",
+            "elo": "1201",
+            "wins": "205",
+            "losses": "159"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/Dzukill",
+            "rank": "Challenger",
+            "elo": "1217",
+            "wins": "274",
+            "losses": "227"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/hhhh+eune+ape",
+            "rank": "Challenger",
+            "elo": "1196",
+            "wins": "275",
+            "losses": "223"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/lIlIIllIlIIllIlI",
+            "rank": "Challenger",
+            "elo": "1195",
+            "wins": "160",
+            "losses": "106"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/Cutie+Sexy+Jool",
+            "rank": "Challenger",
+            "elo": "1244",
+            "wins": "336",
+            "losses": "261"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/T1+K%C3%AAria",
+            "rank": "Challenger",
+            "elo": "1191",
+            "wins": "309",
+            "losses": "261"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/Yikeru",
+            "rank": "Challenger",
+            "elo": "1190",
+            "wins": "245",
+            "losses": "201"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/lan/Diny",
+            "rank": "Challenger",
+            "elo": "1190",
+            "wins": "105",
+            "losses": "57"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/no+invade+pls",
+            "rank": "Challenger",
+            "elo": "1188",
+            "wins": "362",
+            "losses": "312"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/Ca%C3%9Es",
+            "rank": "Challenger",
+            "elo": "1193",
+            "wins": "502",
+            "losses": "430"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/scuro",
+            "rank": "Challenger",
+            "elo": "1186",
+            "wins": "378",
+            "losses": "341"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Minerva",
+            "rank": "Challenger",
+            "elo": "1184",
+            "wins": "532",
+            "losses": "494"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/Azhy",
+            "rank": "Challenger",
+            "elo": "1202",
+            "wins": "458",
+            "losses": "396"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/Happie",
+            "rank": "Challenger",
+            "elo": "1183",
+            "wins": "331",
+            "losses": "261"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/zhong+men+dui+ju",
+            "rank": "Challenger",
+            "elo": "1182",
+            "wins": "447",
+            "losses": "382"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/LBRKrastyel",
+            "rank": "Challenger",
+            "elo": "1181",
+            "wins": "278",
+            "losses": "249"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/RaiderGO",
+            "rank": "Challenger",
+            "elo": "1181",
+            "wins": "85",
+            "losses": "54"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/GPUQSXMH",
+            "rank": "Challenger",
+            "elo": "1180",
+            "wins": "487",
+            "losses": "431"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/AHaHaCiK",
+            "rank": "Challenger",
+            "elo": "1198",
+            "wins": "389",
+            "losses": "334"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/%EC%95%84%ED%8C%8C%EC%9A%94+%EB%A8%B8%EB%A6%AC%EA%B0%80",
+            "rank": "Challenger",
+            "elo": "1180",
+            "wins": "273",
+            "losses": "216"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/A%C3%98H",
+            "rank": "Challenger",
+            "elo": "1179",
+            "wins": "201",
+            "losses": "146"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/kiss",
+            "rank": "Challenger",
+            "elo": "1176",
+            "wins": "337",
+            "losses": "295"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/ragoshi+UwU",
+            "rank": "Challenger",
+            "elo": "1175",
+            "wins": "317",
+            "losses": "260"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/Gen+G+Casting",
+            "rank": "Challenger",
+            "elo": "1174",
+            "wins": "529",
+            "losses": "469"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/hasbulla+lover",
+            "rank": "Challenger",
+            "elo": "1173",
+            "wins": "144",
+            "losses": "80"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/Wen+min+A",
+            "rank": "Challenger",
+            "elo": "1172",
+            "wins": "141",
+            "losses": "73"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/BRO+Hena",
+            "rank": "Challenger",
+            "elo": "1171",
+            "wins": "624",
+            "losses": "563"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Yampi",
+            "rank": "Challenger",
+            "elo": "1170",
+            "wins": "201",
+            "losses": "165"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/RRubyLOL",
+            "rank": "Challenger",
+            "elo": "1169",
+            "wins": "433",
+            "losses": "364"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/lan/Luha",
+            "rank": "Challenger",
+            "elo": "1169",
+            "wins": "194",
+            "losses": "141"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/%ED%83%80+%EC%9E%94",
+            "rank": "Challenger",
+            "elo": "1167",
+            "wins": "346",
+            "losses": "280"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/ain+soph+sefirot",
+            "rank": "Challenger",
+            "elo": "1167",
+            "wins": "221",
+            "losses": "83"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/J%CE%B1vier",
+            "rank": "Challenger",
+            "elo": "1150",
+            "wins": "323",
+            "losses": "266"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/Lego77",
+            "rank": "Challenger",
+            "elo": "1147",
+            "wins": "277",
+            "losses": "232"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/bob+o+construtor",
+            "rank": "Challenger",
+            "elo": "1166",
+            "wins": "251",
+            "losses": "206"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/Sarcasm1",
+            "rank": "Challenger",
+            "elo": "1166",
+            "wins": "213",
+            "losses": "169"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/Trap40",
+            "rank": "Challenger",
+            "elo": "1165",
+            "wins": "231",
+            "losses": "197"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/192571",
+            "rank": "Challenger",
+            "elo": "1164",
+            "wins": "217",
+            "losses": "168"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/DuplaNazareno",
+            "rank": "Challenger",
+            "elo": "1163",
+            "wins": "243",
+            "losses": "179"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/DUDAO+PUTIFERO",
+            "rank": "Challenger",
+            "elo": "1162",
+            "wins": "300",
+            "losses": "258"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/rhythm+game",
+            "rank": "Challenger",
+            "elo": "1162",
+            "wins": "275",
+            "losses": "223"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/Doublelift",
+            "rank": "Challenger",
+            "elo": "1161",
+            "wins": "270",
+            "losses": "228"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/daoxinwengu",
+            "rank": "Challenger",
+            "elo": "1160",
+            "wins": "567",
+            "losses": "481"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Furry+Slayer",
+            "rank": "Challenger",
+            "elo": "1160",
+            "wins": "185",
+            "losses": "138"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Griba",
+            "rank": "Challenger",
+            "elo": "1159",
+            "wins": "303",
+            "losses": "262"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/omnishambles",
+            "rank": "Challenger",
+            "elo": "1158",
+            "wins": "284",
+            "losses": "228"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/TempestLoveYuely",
+            "rank": "Challenger",
+            "elo": "1158",
+            "wins": "187",
+            "losses": "148"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/kxwqff",
+            "rank": "Challenger",
+            "elo": "1155",
+            "wins": "573",
+            "losses": "508"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/ff99",
+            "rank": "Challenger",
+            "elo": "1155",
+            "wins": "257",
+            "losses": "191"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/7ay",
+            "rank": "Challenger",
+            "elo": "1152",
+            "wins": "234",
+            "losses": "192"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/wishshhh",
+            "rank": "Challenger",
+            "elo": "1152",
+            "wins": "231",
+            "losses": "194"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/%EC%9C%84%ED%8A%B8%EB%AF%B8%EB%93%9C",
+            "rank": "Challenger",
+            "elo": "1151",
+            "wins": "246",
+            "losses": "184"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/Bojji",
+            "rank": "Challenger",
+            "elo": "1150",
+            "wins": "164",
+            "losses": "108"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/meiyoudalong",
+            "rank": "Challenger",
+            "elo": "1145",
+            "wins": "432",
+            "losses": "353"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/%EC%AA%BC%EB%A0%99%EC%9D%B4%EB%8B%A4%EB%A7%90%EB%A1%9C%ED%95%98%EC%9E%90",
+            "rank": "Challenger",
+            "elo": "1166",
+            "wins": "527",
+            "losses": "471"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/LLL+BRANCE",
+            "rank": "Challenger",
+            "elo": "1148",
+            "wins": "502",
+            "losses": "463"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/paiN+Wizer1",
+            "rank": "Challenger",
+            "elo": "1148",
+            "wins": "187",
+            "losses": "169"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Brunox1001",
+            "rank": "Challenger",
+            "elo": "1147",
+            "wins": "147",
+            "losses": "110"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/srysrysrysrysr",
+            "rank": "Challenger",
+            "elo": "1145",
+            "wins": "487",
+            "losses": "417"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/KJ+Allen",
+            "rank": "Challenger",
+            "elo": "1146",
+            "wins": "241",
+            "losses": "204"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Ayel1",
+            "rank": "Challenger",
+            "elo": "1145",
+            "wins": "574",
+            "losses": "531"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/%EB%94%94%EC%95%8C%EC%97%91%EC%8A%A4+%ED%83%9C%EC%9C%A4",
+            "rank": "Challenger",
+            "elo": "1145",
+            "wins": "307",
+            "losses": "250"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Mourisco+Cen%C3%A1rio",
+            "rank": "Challenger",
+            "elo": "1145",
+            "wins": "225",
+            "losses": "186"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/qweadsadd",
+            "rank": "Challenger",
+            "elo": "1142",
+            "wins": "477",
+            "losses": "385"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/Audire",
+            "rank": "Challenger",
+            "elo": "1155",
+            "wins": "189",
+            "losses": "167"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/The+Tank+Man",
+            "rank": "Challenger",
+            "elo": "1143",
+            "wins": "552",
+            "losses": "515"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/houndin",
+            "rank": "Challenger",
+            "elo": "1141",
+            "wins": "196",
+            "losses": "153"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/las/Lalekdrax",
+            "rank": "Challenger",
+            "elo": "1141",
+            "wins": "117",
+            "losses": "86"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/cant+offrole",
+            "rank": "Challenger",
+            "elo": "1140",
+            "wins": "411",
+            "losses": "361"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/%EA%B0%95%EB%AF%B8%EB%82%98",
+            "rank": "Challenger",
+            "elo": "1158",
+            "wins": "266",
+            "losses": "208"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/FNC+Upset03",
+            "rank": "Challenger",
+            "elo": "1140",
+            "wins": "264",
+            "losses": "205"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/Allorim",
+            "rank": "Challenger",
+            "elo": "1139",
+            "wins": "249",
+            "losses": "211"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/Ape+Shaped",
+            "rank": "Challenger",
+            "elo": "1138",
+            "wins": "194",
+            "losses": "158"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/Kenas",
+            "rank": "Challenger",
+            "elo": "1138",
+            "wins": "174",
+            "losses": "164"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/LBR+jiayou",
+            "rank": "Challenger",
+            "elo": "1137",
+            "wins": "401",
+            "losses": "360"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/Targamas",
+            "rank": "Challenger",
+            "elo": "1136",
+            "wins": "291",
+            "losses": "226"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/las/Z+h+e+i+r",
+            "rank": "Challenger",
+            "elo": "1135",
+            "wins": "528",
+            "losses": "452"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/hainess",
+            "rank": "Challenger",
+            "elo": "1135",
+            "wins": "213",
+            "losses": "180"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Ryuujin",
+            "rank": "Challenger",
+            "elo": "1134",
+            "wins": "505",
+            "losses": "463"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/lan/STX+Pastelero",
+            "rank": "Challenger",
+            "elo": "1134",
+            "wins": "379",
+            "losses": "336"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/EloHigh+Kayle+1",
+            "rank": "Challenger",
+            "elo": "1134",
+            "wins": "265",
+            "losses": "186"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/berryrasp",
+            "rank": "Challenger",
+            "elo": "1131",
+            "wins": "155",
+            "losses": "121"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/lan/MIC+Deadly+Mark",
+            "rank": "Challenger",
+            "elo": "1133",
+            "wins": "192",
+            "losses": "150"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/vlrhsgody",
+            "rank": "Challenger",
+            "elo": "1133",
+            "wins": "173",
+            "losses": "123"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/%EB%84%AC%EA%B8%B0%EC%96%B5%EC%9D%84%EA%B1%B7%EB%8A%94%EC%8B%9C%EA%B0%84",
+            "rank": "Challenger",
+            "elo": "1132",
+            "wins": "328",
+            "losses": "278"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/tr/L%C3%A2n%C3%A9Domin%C3%A2t%C3%B4r",
+            "rank": "Challenger",
+            "elo": "1132",
+            "wins": "194",
+            "losses": "147"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/Walid+Georgey",
+            "rank": "Challenger",
+            "elo": "1131",
+            "wins": "192",
+            "losses": "143"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/SENEME",
+            "rank": "Challenger",
+            "elo": "1131",
+            "wins": "158",
+            "losses": "102"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/Sorya",
+            "rank": "Challenger",
+            "elo": "1130",
+            "wins": "192",
+            "losses": "143"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Qats",
+            "rank": "Challenger",
+            "elo": "1130",
+            "wins": "148",
+            "losses": "109"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/wuyu",
+            "rank": "Challenger",
+            "elo": "1114",
+            "wins": "145",
+            "losses": "119"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/jp/LuLunight+fans",
+            "rank": "Challenger",
+            "elo": "1111",
+            "wins": "112",
+            "losses": "84"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Drop",
+            "rank": "Challenger",
+            "elo": "1128",
+            "wins": "401",
+            "losses": "357"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/Nikkone",
+            "rank": "Challenger",
+            "elo": "1128",
+            "wins": "175",
+            "losses": "128"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/TraYtoN",
+            "rank": "Challenger",
+            "elo": "1143",
+            "wins": "387",
+            "losses": "334"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/M%CE%B1ster+Oogw%CE%B1y",
+            "rank": "Challenger",
+            "elo": "1127",
+            "wins": "284",
+            "losses": "250"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/caffeine22",
+            "rank": "Challenger",
+            "elo": "1127",
+            "wins": "169",
+            "losses": "110"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/NEED+HER",
+            "rank": "Challenger",
+            "elo": "1126",
+            "wins": "395",
+            "losses": "335"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/ASPEXY",
+            "rank": "Challenger",
+            "elo": "1126",
+            "wins": "355",
+            "losses": "311"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/Skeanz+good+kid",
+            "rank": "Challenger",
+            "elo": "1126",
+            "wins": "543",
+            "losses": "487"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/%EB%86%8D%EC%8B%AC%EB%9D%BC%EB%A9%B4%EB%8B%A4%EB%82%B4%EA%BA%BC%EC%95%BC",
+            "rank": "Challenger",
+            "elo": "1125",
+            "wins": "437",
+            "losses": "379"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/ZvaniLLaN",
+            "rank": "Challenger",
+            "elo": "1125",
+            "wins": "209",
+            "losses": "189"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/SK+Jezu",
+            "rank": "Challenger",
+            "elo": "1140",
+            "wins": "546",
+            "losses": "493"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/tr/ozamanS%C3%9CREVE",
+            "rank": "Challenger",
+            "elo": "1124",
+            "wins": "216",
+            "losses": "183"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/elbAGMO",
+            "rank": "Challenger",
+            "elo": "1122",
+            "wins": "413",
+            "losses": "337"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/small+champ+pool",
+            "rank": "Challenger",
+            "elo": "1122",
+            "wins": "164",
+            "losses": "118"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Bae+Eo+jin",
+            "rank": "Challenger",
+            "elo": "1120",
+            "wins": "157",
+            "losses": "133"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/love+jungle",
+            "rank": "Challenger",
+            "elo": "1119",
+            "wins": "469",
+            "losses": "427"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Leving",
+            "rank": "Challenger",
+            "elo": "1119",
+            "wins": "121",
+            "losses": "85"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/CAVAL%C3%83O+DO+AMASS",
+            "rank": "Challenger",
+            "elo": "1118",
+            "wins": "476",
+            "losses": "432"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/Viz%C3%ADcsacsi",
+            "rank": "Challenger",
+            "elo": "1118",
+            "wins": "214",
+            "losses": "161"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/stevest4r",
+            "rank": "Challenger",
+            "elo": "1104",
+            "wins": "406",
+            "losses": "355"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/Rulfchen",
+            "rank": "Challenger",
+            "elo": "1129",
+            "wins": "238",
+            "losses": "176"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/Lathyrus",
+            "rank": "Challenger",
+            "elo": "1116",
+            "wins": "332",
+            "losses": "281"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/Boots+of+Speed",
+            "rank": "Challenger",
+            "elo": "1116",
+            "wins": "200",
+            "losses": "171"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Tutsz",
+            "rank": "Challenger",
+            "elo": "1115",
+            "wins": "284",
+            "losses": "241"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/FLY+Johnsun",
+            "rank": "Challenger",
+            "elo": "1115",
+            "wins": "268",
+            "losses": "211"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/eune/soft+n+breedable",
+            "rank": "Challenger",
+            "elo": "1151",
+            "wins": "159",
+            "losses": "118"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/tlustejsmrad420",
+            "rank": "Challenger",
+            "elo": "1098",
+            "wins": "102",
+            "losses": "87"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/lan/Apat%C3%AEa",
+            "rank": "Challenger",
+            "elo": "1112",
+            "wins": "121",
+            "losses": "80"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/XLPatrik",
+            "rank": "Challenger",
+            "elo": "1129",
+            "wins": "500",
+            "losses": "447"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/shochi",
+            "rank": "Challenger",
+            "elo": "1094",
+            "wins": "446",
+            "losses": "400"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Fuuu+9",
+            "rank": "Challenger",
+            "elo": "1109",
+            "wins": "390",
+            "losses": "347"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/%EC%88%8F%EB%8B%A4%EB%A6%AC%EC%B9%9C%EA%B5%AC%EB%93%A4",
+            "rank": "Challenger",
+            "elo": "1108",
+            "wins": "196",
+            "losses": "144"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/Bmfx",
+            "rank": "Challenger",
+            "elo": "1108",
+            "wins": "138",
+            "losses": "92"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Bo+Cruz+22",
+            "rank": "Challenger",
+            "elo": "1107",
+            "wins": "409",
+            "losses": "381"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/GuizorPET",
+            "rank": "Challenger",
+            "elo": "1107",
+            "wins": "306",
+            "losses": "263"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/Ruxfi",
+            "rank": "Challenger",
+            "elo": "1107",
+            "wins": "137",
+            "losses": "91"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/RANK+1+SERV+YIOK",
+            "rank": "Challenger",
+            "elo": "1106",
+            "wins": "623",
+            "losses": "563"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Psychedel%C3%AFc",
+            "rank": "Challenger",
+            "elo": "1106",
+            "wins": "295",
+            "losses": "259"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/Mid+Lurk3r",
+            "rank": "Challenger",
+            "elo": "1106",
+            "wins": "100",
+            "losses": "62"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Ploze",
+            "rank": "Challenger",
+            "elo": "1105",
+            "wins": "156",
+            "losses": "119"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/MercedesBenzE500",
+            "rank": "Challenger",
+            "elo": "1104",
+            "wins": "329",
+            "losses": "271"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/kr/%EC%9D%80%EA%B0%80%EB%89%B4",
+            "rank": "Challenger",
+            "elo": "1104",
+            "wins": "299",
+            "losses": "250"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/Topo",
+            "rank": "Challenger",
+            "elo": "1104",
+            "wins": "226",
+            "losses": "185"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/na/mabigan",
+            "rank": "Challenger",
+            "elo": "1104",
+            "wins": "197",
+            "losses": "163"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/tr/Ekkota",
+            "rank": "Challenger",
+            "elo": "1103",
+            "wins": "199",
+            "losses": "178"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/br/Tekkas",
+            "rank": "Challenger",
+            "elo": "1102",
+            "wins": "745",
+            "losses": "707"
+        },
+        {
+            "link": "https://www.leagueofgraphs.com/summoner/euw/Quixeth",
+            "rank": "Challenger",
+            "elo": "1101",
+            "wins": "552",
+            "losses": "500"
+        }
+    ]
+}
